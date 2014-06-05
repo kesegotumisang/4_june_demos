@@ -9,7 +9,8 @@ client = TwilioRestClient(
 )
 
 phone_numbers = [
-    # Phone numbers go here
+    '+26772986824',
+    # other numbers go here
 ]
 
 for number in phone_numbers:
